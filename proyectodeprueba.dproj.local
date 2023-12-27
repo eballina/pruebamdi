@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/09 23:37:44.000.842,=C:\Users\eball\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/09 23:38:48.000.853,=C:\Users\eball\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/10/09 23:39:30.000.736,C:\Users\eball\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\eball\Documents\Embarcadero\Studio\Projects\prueba mdi\mdiuno.pas</Transaction>
+    <Transaction>2023/10/09 23:39:30.000.736,C:\Users\eball\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\eball\Documents\Embarcadero\Studio\Projects\prueba mdi\mdiuno.dfm</Transaction>
+    <Transaction>2023/10/09 23:39:36.000.575,C:\Users\eball\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\eball\Documents\Embarcadero\Studio\Projects\prueba mdi\mdiprincipal.dfm</Transaction>
+    <Transaction>2023/10/09 23:39:36.000.575,C:\Users\eball\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\eball\Documents\Embarcadero\Studio\Projects\prueba mdi\mdiprincipal.pas</Transaction>
+    <Transaction>2023/10/09 23:39:44.000.625,C:\Users\eball\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\eball\Documents\Embarcadero\Studio\Projects\prueba mdi\proyectodeprueba.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
